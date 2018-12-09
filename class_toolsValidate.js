@@ -10,7 +10,8 @@ function captacion_data(num1,num2){
 
 	if(captacion_data == 1){
 		var suma = toInt(num1+num2)		
-	}	else{
+	}else{
 			alert("no se puede ejecutar la validacion");
 		}
-		
+	
+	console.log("he culminadon los procesos de suma");
