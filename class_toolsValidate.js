@@ -14,5 +14,7 @@ function captacion_data(num1,num2){
 			alert("no se puede ejecutar la validacion");
 		}
 		
+		
 	console.log("se culmino del proceso de calculado");
-	console.log("nuevo console.log");
+	console.log("nuevo console.log")
+	console.log("se culmino del proceso de calculado");
