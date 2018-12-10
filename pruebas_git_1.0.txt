@@ -1,3 +1,7 @@
 /////////////ESTE ES UN ARCHIVO DE PRUEBAS DE GIT/////////////7
+<<<<<<< HEAD
 ///////////////ESTA ES UNA NUEVA LINEA//////////////////////7
 //////////////NUEVA LINEA AGREGADA PARA REVISAR ///////////////////////
+=======
+AGREGUE NUEVAS LINEAS
+>>>>>>> 2738dfe8ab3de09c8fe193e6b8f1663b70f91caf
